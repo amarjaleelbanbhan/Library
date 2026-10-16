@@ -20,7 +20,7 @@
     "color": "brand-leaf",
     "activity": "thinking"
   },
-  "emoji": "V",
+  "emoji": "🛡️",
   "agent": "claude-code",
   "permissionMode": "ask-permissions",
   "allowedTools": [
